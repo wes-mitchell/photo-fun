@@ -1,0 +1,14 @@
+body {
+  background-color: #323B3D;
+}
+
+ul  {
+  list-style-type: none;
+  display: flex;
+  padding-left: 0px;
+}
+
+li {
+  display: inline;
+  padding-right: 15px;
+}
