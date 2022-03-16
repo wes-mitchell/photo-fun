@@ -1,5 +1,6 @@
 body {
   background-color: #323B3D;
+  color: #ECEBE4
 }
 
 ul  {
@@ -11,4 +12,28 @@ ul  {
 li {
   display: inline;
   padding-right: 15px;
+}
+
+a {
+  color: #ECEBE4
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  width: auto\9; /* ie8 */
+}
+
+.imageContainer {
+  border: #E0FF4F 1px solid;
+  height: auto;
+  width: 250px;
+}
+
+.content-container {
+  display: flex;
+}
+
+.image {
+  margin: 15px;
 }
