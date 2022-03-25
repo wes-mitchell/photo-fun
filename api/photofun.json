@@ -1,0 +1,225 @@
+
+{
+  "images": [
+    {
+      "id": 1,
+      "media": "film",
+      "color": "false",
+      "location": "Chicago, IL",
+      "year": "2021",
+      "title": "Chicago Skyline",
+      "description": "View of Chicago Skyline via Guaranteed Rate Field on the south side.",
+      "url": "images/b-w/bw1.jpg",
+      "category": "landscape"
+    },
+    {
+      "id": 2,
+      "media": "film",
+      "color": "false",
+      "location": "Nashville, TN",
+      "year": "2018",
+      "title": "Megajoos Reunion",
+      "description": "Drums setup for rehearsal in 2018 for Megajoos Reunion show at Keoghfest in.",
+      "url": "images/b-w/bw2.jpg",
+      "category": "music"
+    },
+    {
+      "id": 3,
+      "media": "film",
+      "color": "false",
+      "location": "Nashville, TN",
+      "year": "2018",
+      "title": "Deep Thoughts",
+      "description": "Bonzo deep in thought or hunting sky raisins.",
+      "url": "images/b-w/bw3.jpg",
+      "category": "pets"
+    },
+    {
+      "id": 4,
+      "media": "film",
+      "color": "false",
+      "location": "Nashville, TN",
+      "year": "2018",
+      "title": "Murphy & His Toy",
+      "description": "Please play with me.",
+      "url": "images/b-w/bw4.jpg",
+      "category": "pets"
+    },
+    {
+      "id": 5,
+      "media": "film",
+      "color": "false",
+      "location": "Nashville, TN",
+      "year": "2018",
+      "title": "Bonzo on the Couch",
+      "description": "Bonzo lounging around as usual.",
+      "url": "images/b-w/bw5.jpg",
+      "category": "pets"
+    },
+    {
+      "id": 6,
+      "media": "film",
+      "color": "false",
+      "location": "Nashville, TN",
+      "year": "2018",
+      "title": "It's Miller Time",
+      "description": "Enjoying a new icy cold Miller Lite on the back porch.",
+      "url": "images/b-w/bw6.jpg",
+      "category": "fun"
+    },
+    {
+      "id": 7,
+      "media": "film",
+      "color": "false",
+      "location": "Nashville, TN",
+      "year": "2018",
+      "title": "Welcome Home",
+      "description": "A welcome home bottle of Prosecco shared with my signifcant other purchased in Lyon, France on tour in 2018.",
+      "url": "images/b-w/bw7.jpg",
+      "category": "fun"
+    },
+    {
+      "id": 8,
+      "media": "film",
+      "color": "false",
+      "location": "Nashville, TN",
+      "year": "2018",
+      "title": "Puppy Eyes",
+      "description": "Bonzo really makes it hard to leave the house sometimes.",
+      "url": "images/b-w/bw8.jpg",
+      "category": "pets"
+    },
+    {
+      "id": 9,
+      "media": "film",
+      "color": "false",
+      "location": "Nashville, TN",
+      "year": "2018",
+      "title": "Lil Stump",
+      "description": "A nice looking bench to sit on in Bicentennial Capitol Mall State Park in Nashville, TN",
+      "url": "images/b-w/bw9.jpg",
+      "category": "fun"
+    },
+    {
+      "id": 10,
+      "media": "film",
+      "color": "false",
+      "location": "Nashville, TN",
+      "year": "2018",
+      "title": "Farmer's Market",
+      "description": "A front side view of the Nashville Farmer's Market building.",
+      "url": "images/b-w/bw10.jpg",
+      "category": "fun"
+    },
+    {
+      "id": 11,
+      "media": "film",
+      "color": "false",
+      "location": "Nashville, TN",
+      "year": "2018",
+      "title": "Welcome",
+      "description": "Fun sign outside of Gardens of Babylon in the Farmer's Market in Nashville, TN.",
+      "url": "images/b-w/bw11.jpg",
+      "category": "fun"
+    },
+    {
+      "id": 12,
+      "media": "film",
+      "color": "false",
+      "location": "Nashville, TN",
+      "year": "2018",
+      "title": "I See You",
+      "description": "Someone's always watching.",
+      "url": "images/b-w/bw12.jpg",
+      "category": "random"
+    },
+    {
+      "id": 13,
+      "media": "film",
+      "color": "false",
+      "location": "Nashville, TN",
+      "year": "2018",
+      "title": "Arthur",
+      "description": "Sup, my name is Arthur. Wanna play?",
+      "url": "images/b-w/bw13.jpg",
+      "category": "pets"
+    },
+    {
+      "id": 14,
+      "media": "film",
+      "color": "false",
+      "location": "Nashville, TN",
+      "year": "2018",
+      "title": "Demo Day",
+      "description": "Tracking demos with Alicia in 2018 using one of my favorite Risen Drums kit.",
+      "url": "images/b-w/bw14.jpg",
+      "category": "music"
+    },
+    {
+      "id": 15,
+      "media": "film",
+      "color": "false",
+      "location": "Atlanta, GA",
+      "year": "2021",
+      "title": "Street Graffiti",
+      "description": "Street graffiti found on the side of Drunken Unicorn in Atlanta, GA during Bully's 3 day residency in 2022.",
+      "url": "images/b-w/bw15.jpg",
+      "category": "random"
+    },
+    {
+      "id": 16,
+      "media": "film",
+      "color": "false",
+      "location": "Atlanta, GA",
+      "year": "2021",
+      "title": "Milkman",
+      "description": "Bret chillin before a show outside the Drunken Unicorn in Atlanta, GA.",
+      "url": "images/b-w/bw16.jpg",
+      "category": "music"
+    },
+    {
+      "id": 17,
+      "media": "film",
+      "color": "false",
+      "location": "St. Louis, MO",
+      "year": "2021",
+      "title": "Lemp Ave Spookies",
+      "description": "Wandering Lemp Ave in 2021 before playing Off Broadway in St. Louis.",
+      "url": "images/b-w/bw17.jpg",
+      "category": "random"
+    },
+    {
+      "id": 18,
+      "media": "film",
+      "color": "false",
+      "location": "St. Louis, MO",
+      "year": "2021",
+      "title": "Lemp Ave Spookies #2",
+      "description": "Another shot taken on Lemp Ave in St. Louis, MO.",
+      "url": "images/b-w/bw18.jpg",
+      "category": "random"
+    },
+    {
+      "id": 19,
+      "media": "film",
+      "color": "false",
+      "location": "St. Louis, MO",
+      "year": "2021",
+      "title": "Lemp Brewery",
+      "description": "Lemp Brewery(Mansion) as seen on Ghost Hunters.",
+      "url": "images/b-w/bw19.jpg",
+      "category": "random"
+    },
+    {
+      "id": 20,
+      "media": "film",
+      "color": "false",
+      "location": "Chicago, IL",
+      "year": "2021",
+      "title": "White Sox vs. Cubbies",
+      "description": "A big fight broke out in center field bleachers that day. I'll never forget it.",
+      "url": "images/b-w/bw20.jpg",
+      "category": "fun"
+    }
+  ]
+}

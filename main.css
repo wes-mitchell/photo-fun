@@ -32,8 +32,11 @@ img {
 
 .content-container {
   display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
 }
 
 .image {
   margin: 15px;
+  max-width: 250px;
 }
