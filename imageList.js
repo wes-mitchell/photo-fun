@@ -13,3 +13,13 @@ export const imageList = () => {
      imageEl.innerHTML +=`${imageHTMLRep}`
   })
 }
+
+// const imageRandomizer = () => { 
+//   const images = getImages().then(allImages => {
+//   for (const image of allImages) {
+//     console.log(image.id)
+//     return image.id
+//   }
+//  })
+// }
+//  imageRandomizer()
