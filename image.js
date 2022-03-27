@@ -1,4 +1,3 @@
-
 export const imageHTML = (image) => { 
   return `<div class="image-card">
   <div class="image">
