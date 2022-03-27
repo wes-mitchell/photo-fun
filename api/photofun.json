@@ -286,6 +286,149 @@
       "description": "Docked paddlewheeler in New Orleans, LA.",
       "url": "images/b-w/bw26.jpg",
       "category": "travel"
+    },
+    {
+      "id": 27,
+      "media": "film",
+      "color": "true",
+      "location": "New Orleans, LA",
+      "year": "2020",
+      "title": "St. Louis Cemetary #2",
+      "description": "St. Louis Cemetary #2, not the one with Nicolas Cage's tombstone. :)",
+      "url": "images/color/color1.jpg",
+      "category": "travel"
+    },
+    {
+      "id": 28,
+      "media": "film",
+      "color": "true",
+      "location": "Cannon Falls, MN",
+      "year": "2019",
+      "title": "Mezzi",
+      "description": "Mezzi making sure everything is sounding good at Pachyderm Studios during Bully's SUGAREGG tracking session.",
+      "url": "images/color/color2.jpg",
+      "category": "pets"
+    },
+    {
+      "id": 29,
+      "media": "film",
+      "color": "true",
+      "location": "New Orleans, LA",
+      "year": "2020",
+      "title": "Paddlewheeler",
+      "description": "A color shot of the New Orleans paddlewheeler. ",
+      "url": "images/color/color3.jpg",
+      "category": "travel"
+    },
+    {
+      "id": 30,
+      "media": "film",
+      "color": "true",
+      "location": "New Orleans, LA",
+      "year": "2020",
+      "title": "Satchmo",
+      "description": "Some street graffiti displaying Louis Armstrong on Frenchman St.",
+      "url": "images/color/color4.jpg",
+      "category": "random"
+    },
+    {
+      "id": 31,
+      "media": "film",
+      "color": "true",
+      "location": "Cleveland, OH",
+      "year": "2018",
+      "title": "Greenroom Jukebox",
+      "description": "A Jukebox in the greenroom of Beachland Tavern in Cleveland, OH.",
+      "url": "images/color/color5.jpg",
+      "category": "random"
+    },
+    {
+      "id": 32,
+      "media": "film",
+      "color": "true",
+      "location": "Buffalo, NY",
+      "year": "2018",
+      "title": "Untitled",
+      "description": "Messing with shapes on expired film in Buffalo, NY.",
+      "url": "images/color/color6.jpg",
+      "category": "random"
+    },
+    {
+      "id": 33,
+      "media": "film",
+      "color": "true",
+      "location": "Buffalo, NY",
+      "year": "2018",
+      "title": "Buffalo, NY",
+      "description": "Buffalo, NY marquee on expired film.",
+      "url": "images/color/color7.jpg",
+      "category": "travel"
+    },
+    {
+      "id": 34,
+      "media": "film",
+      "color": "true",
+      "location": "Spring Green, WI",
+      "year": "2018",
+      "title": "Clay Vibes",
+      "description": "Clay having a Miller Lite enjoying some downtime before Bully performs at the Shitty Barn in Spring Green, WI.",
+      "url": "images/color/color8.jpg",
+      "category": "music"
+    },
+    {
+      "id": 35,
+      "media": "film",
+      "color": "true",
+      "location": "Atlanta, GA",
+      "year": "2018",
+      "title": "Bonzo",
+      "description": "One of my favorite shots of Bonzo captured in Atlanta, GA trying to emphasize bokeh.",
+      "url": "images/color/color9.jpg",
+      "category": "pets"
+    },
+    {
+      "id": 36,
+      "media": "film",
+      "color": "true",
+      "location": "Atlanta, GA",
+      "year": "2018",
+      "title": "Good Luck",
+      "description": "Sippin some Stumptown cold brew and enjoying Atlanta, GA with my significant other at the time.",
+      "url": "images/color/color10.jpg",
+      "category": "random"
+    },
+    {
+      "id": 37,
+      "media": "film",
+      "color": "true",
+      "location": "Nashville, TN",
+      "year": "2018",
+      "title": "Shelby Bottoms",
+      "description": "Shelby Bottoms graffiti in Nashville, TN.",
+      "url": "images/color/color11.jpg",
+      "category": "random"
+    },
+    {
+      "id": 38,
+      "media": "film",
+      "color": "true",
+      "location": "Atlanta, GA",
+      "year": "2018",
+      "title": "3rd Baseline",
+      "description": "Attending my first Braves game at Truist Park in Atlanta, GA. Picked 3rd base to see one of my favorite players, Nolan Arenado.",
+      "url": "images/color/color12.jpg",
+      "category": "fun"
+    },
+    {
+      "id": 39,
+      "media": "film",
+      "color": "true",
+      "location": "Nashville, TN",
+      "year": "2018",
+      "title": "Alicia Bognanno",
+      "description": "Alicia before our set at Paramore's Art & Friends Fest at Nashville Municipal Auditorium in 2018.",
+      "url": "images/color/color13.jpg",
+      "category": "music"
     }
   ]
 }
