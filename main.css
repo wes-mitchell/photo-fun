@@ -45,7 +45,27 @@ h2 {
   text-align: center;
 }
 
+/* h1 {
+  margin-left: 0.7em;
+  margin-top: 0.32em;
+  color: #eaf7a6;
+} */
+
+ul {
+  margin-left: .5em;
+}
+
 .image-card {
   border: .5px white solid;
   margin: 5px;
+}
+
+header {
+  display: flex;
+}
+
+#logo-image {
+  width: 7em;
+  height: 7em;
+  margin-left: 0.3em;
 }

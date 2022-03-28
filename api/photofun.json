@@ -302,12 +302,12 @@
       "id": 28,
       "media": "film",
       "color": "true",
-      "location": "Cannon Falls, MN",
-      "year": "2019",
-      "title": "Mezzi",
-      "description": "Mezzi making sure everything is sounding good at Pachyderm Studios during Bully's SUGAREGG tracking session.",
-      "url": "images/color/color2.jpg",
-      "category": "pets"
+      "location": "New Orleans, LA",
+      "year": "2020",
+      "title": "Blue Nile",
+      "description": "Blue Nile on Frenchman St. in New Orleans.",
+      "url": "images/color/color3.jpg",
+      "category": "travel"
     },
     {
       "id": 29,
@@ -317,7 +317,7 @@
       "year": "2020",
       "title": "Paddlewheeler",
       "description": "A color shot of the New Orleans paddlewheeler. ",
-      "url": "images/color/color3.jpg",
+      "url": "images/color/color2.jpg",
       "category": "travel"
     },
     {
