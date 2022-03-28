@@ -40,3 +40,12 @@ img {
   margin: 15px;
   max-width: 250px;
 }
+
+h2 {
+  text-align: center;
+}
+
+.image-card {
+  border: .5px white solid;
+  margin: 5px;
+}
