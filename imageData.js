@@ -5,6 +5,6 @@ export const getImages = () => {
     .then(response => response.json())
     .then(parsedResponse => {
       images = parsedResponse
-      return parsedResponse
+      return parsedResponse.sort(function(a, b){return 0.5 - Math.random()});
     })
 }
