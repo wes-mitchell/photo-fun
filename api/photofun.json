@@ -429,6 +429,83 @@
       "description": "Alicia before our set at Paramore's Art & Friends Fest at Nashville Municipal Auditorium in 2018.",
       "url": "images/color/color13.jpg",
       "category": "music"
+    },
+    {
+      "id": 40,
+      "media": "digital",
+      "color": "true",
+      "location": "Nashville, TN",
+      "year": "2018",
+      "title": "SoDak",
+      "description": "Ya, I held onto my license plates from home. Then I took pictures of them.",
+      "url": "images/color/color14.jpg",
+      "category": "fun"
+    },
+    {
+      "id": 41,
+      "media": "digital",
+      "color": "true",
+      "location": "Nashville, TN",
+      "year": "2018",
+      "title": "Gabby's Burger's & Fries",
+      "description": "A hidden gem in Nashville, TN.",
+      "url": "images/color/color15.jpg",
+      "category": "fun"
+    },
+    {
+      "id": 42,
+      "media": "digital",
+      "color": "true",
+      "location": "Nashville, TN",
+      "year": "2018",
+      "title": "Park Hangs",
+      "description": "Murphy taking a breather on a hot day at the park.",
+      "url": "images/color/color16.jpg",
+      "category": "pets"
+    },
+    {
+      "id": 43,
+      "media": "digital",
+      "color": "true",
+      "location": "Charleston, SC",
+      "year": "2017",
+      "title": "Beach Hangs",
+      "description": "Fun shot of a kite I grabbed at the beach in Charleston, SC on vacay.",
+      "url": "images/color/color17.jpg",
+      "category": "fun"
+    },
+    {
+      "id": 44,
+      "media": "digital",
+      "color": "true",
+      "location": "Ontario, Canada",
+      "year": "2018",
+      "title": "Niagara Falls",
+      "description": "Taken from the Canadian side of Niagara Falls.",
+      "url": "images/color/color18.jpg",
+      "category": "travel"
+    },
+    {
+      "id": 45,
+      "media": "digital",
+      "color": "true",
+      "location": "Nashville, TN",
+      "year": "2018",
+      "title": ":)",
+      "description": "Trying to be creative with my morning routine and got a smile back.",
+      "url": "images/color/color19.jpg",
+      "category": "fun"
+    },
+    {
+      "id": 46,
+      "media": "film",
+      "color": "true",
+      "location": "Atlanta, GA",
+      "year": "2018",
+      "title": "Garage Monster",
+      "description": "Fun graffiti found in Atlanta, GA across from Revolution Doughnuts.",
+      "url": "images/color/color20.jpg",
+      "category": "travel"
     }
   ]
 }
