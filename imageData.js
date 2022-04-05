@@ -8,3 +8,7 @@ export const getImages = () => {
       return parsedResponse.sort(function(a, b){return 0.5 - Math.random()});
     })
 }
+
+export const useImages = () => {
+  return [...images]
+}
