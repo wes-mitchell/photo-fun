@@ -1,5 +1,5 @@
 export const indexPage = () => {
-  
+
   const headEl = document.querySelector('head')
   const bodyEl = document.querySelector('body')
 
@@ -18,9 +18,12 @@ export const indexPage = () => {
   <div class="dropdown">
     <button class="dropbtn" id="filterbutton">Show me</button>
     <div class="dropdown-content">
-      <p value="film">film</p>
-      <p value="#">Link 2</p>
-      <p value="#">Link 3</p>
+    <p id="seeAll">See All</p>
+    <p id="seeFilm">See Film</p>
+    <p id="seeDigital">See Digital</p>
+    <p id="seeBW">See B&W</p>
+    <p id="seeColor">See Color</p>
+    <p id="seePets">See Furry Friends</p>
     </div>
   </div>
   </div>
