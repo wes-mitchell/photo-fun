@@ -235,7 +235,7 @@
     {
       "id": 22,
       "media": "film",
-      "color": "false",
+      "color": "true",
       "location": "Ontario, Canada",
       "year": "2018",
       "title": "Niagara Falls",
@@ -338,7 +338,7 @@
       "location": "Cleveland, OH",
       "year": "2018",
       "title": "Greenroom Jukebox",
-      "description": "A Jukebox in the greenroom of Beachland Tavern in Cleveland, OH.",
+      "description": "A Jukebox in the greenroom of Beachland Tavern in Cleveland, OH shot on expired film.",
       "url": "images/color/color5.jpg",
       "category": "random"
     },
