@@ -1,3 +1,7 @@
+header {
+  height: 78px;
+}
+
 body {
   background-color: #083d77;
   color: #ECEBE4
@@ -11,6 +15,7 @@ ul  {
   border: #ECEBE4 1px solid;
   border-radius: 3px;
   margin-left: .35em;
+  flex-wrap: wrap;
 }
 
 li {
@@ -70,8 +75,13 @@ h2 {
   margin: 5px;
 }
 
+.logo {
+  width: 90px;
+  height: 90px;
+}
+
 #logo-image {
-  width: 7em;
+  width: 5em;
   height: 7em;
   margin-left: 0.3em;
 }
