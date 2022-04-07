@@ -20,7 +20,7 @@ const startPortfolio = () => {
     imageList()
 }
 
-
+// ======== handles all event clicks for Nav Bar ======
 
 bodyEl.addEventListener("click", event => {
   if (event.target.id === 'landSeeFilm') {
@@ -52,6 +52,8 @@ bodyEl.addEventListener("click", event => {
     bwList()
   } else if (event.target.id === 'seeColor') {
     colorList()
+  } else if (event.target.id === "about") {
+    landingPage()
   }
 })
 
