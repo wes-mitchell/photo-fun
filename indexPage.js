@@ -12,20 +12,15 @@ export const indexPage = () => {
   bodyEl.innerHTML = `<header></header>
   
   <div class="linktitles">
-  <ul class="navbar">
-    <li><a href="about.html">About The Photographer</a></li>
-  </ul>
-  <div class="dropdown">
-    <button class="dropbtn" id="filterbutton">Show me</button>
-    <div class="dropdown-content">
-    <p id="seeAll">See All</p>
-    <p id="seeFilm">See Film</p>
-    <p id="seeDigital">See Digital</p>
-    <p id="seeBW">See B&W</p>
-    <p id="seeColor">See Color</p>
-    <p id="seePets">See Furry Friends</p>
-    </div>
-  </div>
+    <ul class="navbar">
+      <li id="about">About The Photographer</li>
+      <li id="seeAll">See All</li>
+      <li id="seeBW">See B&W</li>
+      <li id="seeColor">See Color</li>
+      <li id="seeDigital">See Digital</li>
+      <li id="seeFilm">See Film</li>
+      <li id="seePets">See Furry Friends</li>
+    </ul>
   </div>
   <main>
     <div class="content-container">
