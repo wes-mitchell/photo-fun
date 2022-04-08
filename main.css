@@ -1,5 +1,19 @@
-header {
-  height: 78px;
+.navItem {
+  height: 20px;
+  text-decoration: underline;
+  align-self: center;
+}
+
+.nav {
+  display: flex
+  width: 685px;
+  width: fit-content;
+  margin-left: 10px;
+  text-decoration: underline;
+}
+
+.navbar {
+  margin-top: 30px;
 }
 
 body {
@@ -12,9 +26,7 @@ ul  {
   display: flex;
   justify-content: space-between;
   padding-left: 0px;
-  border: #ECEBE4 1px solid;
-  border-radius: 3px;
-  margin-left: .35em;
+  /* margin-left: .35em; */
   flex-wrap: wrap;
 }
 
@@ -27,6 +39,10 @@ li {
 li:hover {
   cursor: pointer;
   background-color: #007bff;
+}
+
+.logo:not(.hover) {
+  pointer-events: none;
 }
 
 #seePets {
