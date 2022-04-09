@@ -13,8 +13,3 @@ export const showHeader = () => {
     </ul>
   </div>`
 }
-
-{/* <div class="header"></div> */}
-// `<div id="logo-image">
-//   <img src="./images/wmsnaps.png" alt="wmsnaps logo">
-//   </div>

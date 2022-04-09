@@ -1,14 +1,20 @@
-let images = []
 
 export const getImages = () => {
-  return fetch("http://localhost:8088/images")
+  return fetch(`https://wes-mitchell.github.io/photoapi/database.json`)
     .then(response => response.json())
     .then(parsedResponse => {
-      images = parsedResponse
-      return parsedResponse.sort(function(a, b){return 0.5 - Math.random()});
+      return parsedResponse
     })
 }
 
-export const useImages = () => {
-  return [...images]
-}
+// export const getImages = () => {
+//     return fetch("http://localhost:8088/images")
+//       .then(response => response.json())
+//       .then(parsedResponse => {
+//           images = parsedResponse
+//           return parsedResponse.sort(function(a, b){return 0.5 - Math.random()});
+//         })
+//       }
+
+
+
