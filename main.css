@@ -4,13 +4,13 @@
   align-self: center;
 }
 
-.nav {
-  display: flex
+/* .nav {
+  display: flex;
   width: 685px;
   width: fit-content;
   margin-left: 10px;
   text-decoration: underline;
-}
+} */
 
 .navbar {
   margin-top: 30px;
