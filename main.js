@@ -2,8 +2,8 @@ import { showHeader } from "./header.js";
 import { imageList, filmList, digitalList, petList, bwList, colorList } from "./imageList.js";
 import { landingPage } from "./landingPage.js";
 import { indexPage } from "./indexPage.js";
-import { getImageById } from "./imageData.js";
-import { showRaw } from "./imageData.js";
+// import { getImageById } from "./imageData.js";
+// import { showRaw } from "./imageData.js";
 
 const bodyEl = document.querySelector('body')
 const headEl = document.querySelector('head')
