@@ -7,7 +7,6 @@ export const imageList = () => {
   const imageEl = document.querySelector(".content-container")
   let imageHTMLRep = ''
   getImages().then(allImages => {
-    console.log(allImages);
     for (const image of allImages.images.sort(function(a, b){return 0.5 - Math.random()})) { 
       imageHTMLRep += imageHTML(image)
      }

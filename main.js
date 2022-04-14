@@ -2,6 +2,8 @@ import { showHeader } from "./header.js";
 import { imageList, filmList, digitalList, petList, bwList, colorList } from "./imageList.js";
 import { landingPage } from "./landingPage.js";
 import { indexPage } from "./indexPage.js";
+import { getImageById } from "./imageData.js";
+import { showRaw } from "./imageData.js";
 
 const bodyEl = document.querySelector('body')
 const headEl = document.querySelector('head')
@@ -57,23 +59,15 @@ bodyEl.addEventListener("click", event => {
   }
 })
 
+// ======= splits image id and re-directs to raw image ====
 
 
-
-
-// const showfilteredPosts = () => {
-//   const postEl = document.querySelector(".content-container")
-//   const filmFilter = useImages().filter(singleImg => {
-//     if (singleImg.media === 'film') {
-//       return singleImg
-//     }
-//   })
-//   postEl.innerHTML = EntryListComponent(filteredData)
-// }  
-
-// eventElement.addEventListener("change", event => {
-//   if (event.target.id === "mood-drop") {
-//     const currentMood = event.target.value
-//     showMoodPosts(currentMood)
-//   }
+// bodyEl.addEventListener("click", event => {
+//   if (event.target.id.startsWith("thumb")) {
+//     console.log("image clicked");
+//     const imageId = event.target.id.split("__")[1];
+//     // console.log(imageId);
+//     showRaw(imageId)
+//     } 
 // })
+
