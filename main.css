@@ -53,6 +53,12 @@ a {
   color: #ECEBE4
 }
 
+.test {
+  max-width: 100%;
+  height: auto;
+  width: auto\9; /* ie8 */
+}
+
 img {
   max-width: 100%;
   height: auto;
@@ -101,55 +107,3 @@ h2 {
   height: 7em;
   margin-left: 0.3em;
 }
-
-
-/* Dropdown Button */
-/* dropdown button css from w3 */
-
-/* Dropdown Button */
-.dropbtn {
-  background-color: #6a3937;
-  color: #ECEBE4;
-  padding: 15px;
-  font-size: 15px;
-  border: none;
-}
-
-/* The container <div> - needed to position the dropdown content */
-.dropdown {
-  position: relative;
-  display: inline-block;
-}
-
-/* Dropdown Content (Hidden by Default) */
-.dropdown-content {
-  overflow-x: hidden;
-  overflow-y: scroll;
-  display: none;
-  position: absolute;
-  background-color: #4b0909;
-  width: 127px;
-  height: 90px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  z-index: 1;
-}
-
-/* Links inside the dropdown */
-.dropdown-content p {
-  cursor: pointer;
-  color: #ECEBE4;
-  padding: 1px 1px;
-  text-decoration: none;
-  display: block;
-}
-
-/* Change color of dropdown links on hover */
-.dropdown-content p:hover {background-color: #083d77;}
-
-/* Show the dropdown menu on hover */
-.dropdown:hover .dropdown-content {display: block;}
-
-/* Change the background color of the dropdown button when the dropdown content is shown */
-.dropdown:hover .dropbtn {background-color: #083d77;}
-
-
