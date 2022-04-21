@@ -8,6 +8,7 @@ header {
   position: fixed; /* Set the navbar to fixed position */
   top: 0; /* Position the navbar at the top of the page */
   width: 100%; /* Full width */
+  background-color: #083d77;
 }
 
 /* .nav {
@@ -19,12 +20,13 @@ header {
 } */
 
 .navbar {
-  margin-top: 30px;
+  margin-right: 19.5px;
 }
 
 body {
   background-color: #083d77;
-  color: #ECEBE4
+  color: #ECEBE4;
+  margin-top: 140px;
 }
 
 ul  {
@@ -113,4 +115,8 @@ h2 {
   width: 5em;
   height: 7em;
   margin-left: 0.3em;
+}
+
+.imageThumb:hover {
+  cursor: pointer;
 }
