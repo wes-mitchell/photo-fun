@@ -8,31 +8,18 @@ export const getImages = () => {
 }
 
 
-// export const getImageById = (imageId) => { 
-//   return fetch(`https://wes-mitchell.github.io/photoapi/database.json/`)
-//   .then(response => response.json())
-//   .then(allData  => {
-//     // console.log(allData.images);
-//     allData.images.filter(image => {
-//       // console.log(image);
-//       const filteredImage = []
-//       if (image.id === imageId) {
-//       filteredImage.push(image)
-//       return 
-//       }
-//       return filteredImage
-//   })
-//   }    
-// )}
+// ====== Finds image by id and shows raw image =====
+
+export const showRaw = (imageId) => {
+  return getImages()
+    .then(allImages => {
+      const imageEl = document.querySelector(".content-container")
+      const foundImage = allImages.images.find(image => image.id === imageId)
+      imageEl.innerHTML = `<img src="${foundImage.raw}" alt="selected image" class="rawImage">`
+    })
+}
 
 
-
-
-
-// export const showRaw = (imageArr) => {
-//   console.log(imageArr); 
-//   window.open(`${imageArr.raw}`, "_blank")
-//  }
 
 
 // export const getImages = () => {
