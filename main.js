@@ -2,8 +2,7 @@ import { showHeader } from "./header.js";
 import { imageList, filmList, digitalList, petList, bwList, colorList } from "./imageList.js";
 import { landingPage } from "./landingPage.js";
 import { indexPage } from "./indexPage.js";
-// import { getImageById } from "./imageData.js";
-// import { showRaw } from "./imageData.js";
+import { showRaw } from "./imageData.js";
 
 const bodyEl = document.querySelector('body')
 const headEl = document.querySelector('head')
@@ -59,15 +58,12 @@ bodyEl.addEventListener("click", event => {
   }
 })
 
-// ======= splits image id and re-directs to raw image ====
 
+// ======= splits image id and re-directs to raw image view ====
 
-// bodyEl.addEventListener("click", event => {
-//   if (event.target.id.startsWith("thumb")) {
-//     console.log("image clicked");
-//     const imageId = event.target.id.split("__")[1];
-//     // console.log(imageId);
-//     showRaw(imageId)
-//     } 
-// })
-
+bodyEl.addEventListener("click", event => {
+  if (event.target.id.startsWith("thumb")) {
+    const imageId = parseInt(event.target.id.split("__")[1]);
+    showRaw(imageId)
+  } 
+})
